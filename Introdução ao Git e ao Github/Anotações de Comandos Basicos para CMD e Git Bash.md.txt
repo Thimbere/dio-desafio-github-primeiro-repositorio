@@ -1,0 +1,28 @@
+# Anotações de Comandos Basicos para CMD e Git bash
+
+
+
+## Comandos do Git:
+
+- ### SHA1
+
+- ### Objetos fundamentais
+
+- ### Sistema distribuido
+
+
+
+###  SHA1
+
+#### Algoritmo de encriptação, é a senha com inumeros caracteres que altera a cada mudança.
+
+
+
+### Objetos fundamentais
+
+- #### <em>Blobs</em>: Objeto de metada;
+
+- #### <em>Trees</em>: Arvore que guarda os arquivos blobs;
+
+- #### <em>Commits</em>: É o autor e a mensagem;
+
